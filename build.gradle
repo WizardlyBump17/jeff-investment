@@ -1,0 +1,11 @@
+plugins {
+    id 'java'
+}
+
+group 'com.wizardlybump17.jeff-investment'
+version '1.0.0'
+
+repositories {
+    mavenCentral()
+    mavenLocal()
+}
